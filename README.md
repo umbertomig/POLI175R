@@ -1,2 +1,1 @@
-# POLI175R
-Machine Learning for Political Scientists in R
+# POLI175 - Machine Learning for Political Scientists in R
