@@ -2,6 +2,9 @@
 .Rhistory
 .Rapp.history
 
+.DS_Store
+/sandbox
+
 # Session Data files
 .RData
 .RDataTmp
